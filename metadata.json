@@ -1,0 +1,6 @@
+{
+  "name": "GeoSaneamiento Perú",
+  "description": "Plataforma técnica geoespacial para levantamiento predial, cálculo perimétrico UTM y saneamiento físico-legal en el Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
